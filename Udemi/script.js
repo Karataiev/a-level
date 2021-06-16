@@ -10,7 +10,6 @@
 // const answer = prompt('Вам есть 18?', '');
 // console.log(answer)
 
-
 // const answers = [];
 
 // answers[0] = prompt("What is your name?", "");
@@ -19,17 +18,14 @@
 
 // console.log(typeof(answers));
 
-
-
-let incr = 10,
-    decr = 10;
+// let incr = 10,
+//     decr = 10;
 
 // incr++;
 // decr--;
 
-console.log(incr++);
-console.log(decr--);
+// console.log(incr++);
+// console.log(decr--);
+// console.log(5%2);
 
-
-console.log(5%2);
 
